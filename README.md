@@ -8,7 +8,7 @@
 - 🌍 I'm open to collaborating on exciting projects and learning from the community.
 
 ### 📫 **Reach Me**:
-- [LinkedIn](https://www.linkedin.com/in/avishkar-deogharia-b6612a290/)
+- [LinkedIn](https://www.linkedin.com/in/avishkar-deogharia-b6612a290/) 
 - Email: avishkardeogharia2004@gmail.com 
 
 ---
