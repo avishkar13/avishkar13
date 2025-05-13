@@ -1,8 +1,8 @@
 # 👋 Hi, I’m [Avishkar Deogharia](https://www.linkedin.com/in/avishkar-deogharia-b6612a290/)
 
-### 🚀 A passionate **Website Developer** with a keen interest in crafting dynamic web applications and solutions.
+### 🚀 A passionate **Full Stack Web Developer** with a keen interest in crafting dynamic web applications and solutions.
 
-- 🌱 Currently diving into **Backend Development** to build powerful server-side applications and APIs.
+- 🌱 Currently exploring DevOps to efficiently deploy, scale, and maintain powerful server-side applications and APIs.
 - 👀 Exploring the latest trends and technologies in **Web Development** and always eager to learn more.
 - 🛠️ **Tech Stack**: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS
 - 🌍 I'm open to collaborating on exciting projects and learning from the community.
@@ -19,6 +19,7 @@
 -->
 
 ### 🏆 **My Latest Projects**:
+- [Noggle](https://noggle.onrender.com/) - Noggle is a modern, secure chat app that supports real-time messaging.
 - [Portfolio Website](https://avishkar-deogharia-portfolio.netlify.app/) - My personal portfolio showcasing web development projects.
 - [NexCart](https://nex-cart.vercel.app/) - A demo e-commerce site built with React and Tailwind CSS.
 
